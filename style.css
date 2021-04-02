@@ -1,0 +1,68 @@
+html {
+  width: 100%;
+  height: 100%;
+}
+
+#content {
+  background-image: url("/images/dark-bg.jpg");
+  width: 100%;
+  height: 100%;
+}
+
+div {
+  background-color:rgba(0, 0, 0, 0);
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  background-color:rgba(0, 0, 0, 0);
+  padding: 15px;
+}  
+
+tbody {
+  background-color:rgba(0, 0, 0, 0);
+}
+
+.head {
+  text-align: center;
+}
+
+.white {
+  background-color: white;
+}
+
+.wrapper {
+  margin-left:auto;
+  margin-right:auto;
+  background-color:rgba(0, 0, 0, 0);
+}
+
+.user-commands td, th {
+  border: 1px solid black;
+  text-align: left;
+  padding: 8px;
+}
+
+.mod-commands td, th {
+  border: 1px solid black;
+  text-align: left;
+  padding: 8px;
+}
+
+.sub-commands td, th {
+  border: 1px solid black;
+  text-align: left;
+  padding: 8px;
+}
+
+h1 {
+  text-align: center;
+  background-color:rgba(0, 0, 0, 0);
+  color: white;
+}
+
