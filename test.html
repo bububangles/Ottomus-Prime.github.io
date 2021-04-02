@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<head>
+  <title>Otto's Stream Commands</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  
+  <script type="text/javascript">
+    $.getJSON("/data/user-commands.json", function(data) {
+      var html='';
+      html += '<tr>';
+      html += '<td><b>COMMAND</b></td>';
+      html += '<td><b>USAGE</b></td>';
+      html += '<td><b>DESCRIPTION</b></td>';
+      html += '</tr>';
+      $.each(data, function(key, value){
+        html+='<tr>';
+        html+='<td>'+value.name+'</td>';
+        html+='<td><xmp>'+value.usage+'</xmp></td>';
+        html+='<td>'+value.description+'</td>';
+        html+='</tr>';
+      });
+      $('#user').html(html);
+    });
+    
+    $.getJSON("/data/mod-commands.json", function(data) {
+      var html='';
+      html += '<tr>';
+      html += '<td><b>COMMAND</b></td>';
+      html += '<td><b>USAGE</b></td>';
+      html += '<td><b>DESCRIPTION</b></td>';
+      html += '</tr>';
+      $.each(data, function(key, value){
+        html+='<tr>';
+        html+='<td>'+value.name+'</td>';
+        html+='<td><xmp>'+value.usage+'</xmp></td>';
+        html+='<td>'+value.description+'</td>';
+        html+='</tr>';
+      });
+      $('#mod').html(html);
+    });
+    
+    $.getJSON("/data/sub-commands.json", function(data) {
+      var html='';
+      html += '<tr>';
+      html += '<td><b>COMMAND</b></td>';
+      html += '<td><b>USAGE</b></td>';
+      html += '<td><b>DESCRIPTION</b></td>';
+      html += '</tr>';
+      $.each(data, function(key, value){
+        html+='<tr>';
+        html+='<td>'+value.name+'</td>';
+        html+='<td><xmp>'+value.usage+'</xmp></td>';
+        html+='<td>'+value.description+'</td>';
+        html+='</tr>';
+      });
+      $('#sub').html(html);
+    });
+  </script>
+  
+</head>
+<style>
+  body,h1 {font-family: "Raleway", sans-serif}
+</style>
+
+<body id="content">
+  <div>
+    <table class="wrapper">
+      <tr>
+        
+        <td valign="top">
+          <table id="user" class="user-commands">
+            <tr>
+              <h1>Viewer Commands</h1>
+            </tr>
+          </table>
+        </td>
+        
+        <td style="width:100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        
+        <td valign="top">
+          <table id="mod" class="mod-commands">
+            <tr>
+              <h1>Mod Commands</h1>
+            </tr>
+          </table>
+        </td>
+        
+        <td style="width:100px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        
+        <td valign="top">
+          <table id="sub" class="sub-commands">
+            <tr>
+              <h1>Sub Commands</h1>
+            </tr>
+          </table>
+        </td>
+        
+      </tr>
+    </table>
+  </div>
+</body>
+
+</html>
