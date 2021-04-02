@@ -1,0 +1,4 @@
+[
+  {"name": "!discord", "usage": "!discord", "description": "Displays a link to Otto's Discord server"},
+  {"name": "!love", "usage": "!love", "description": "Tell Otto you love him!"}
+]
