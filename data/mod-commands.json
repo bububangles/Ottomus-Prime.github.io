@@ -1,0 +1,4 @@
+[
+  {"name": "!so", "usage": "!so <target>", "description": "Shout out to the target viewer, diisplaying stream link and last played game"},
+  {"name": "!back", "usage": "!back", "description": "Lets the stream know that Otto will be right back, he is stretching"}
+]
