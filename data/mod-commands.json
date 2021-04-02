@@ -1,4 +1,18 @@
 [
   {"name": "!so", "usage": "!so <target>", "description": "Shout out to the target viewer, diisplaying stream link and last played game"},
-  {"name": "!back", "usage": "!back", "description": "Lets the stream know that Otto will be right back, he is stretching"}
+  {"name": "!back", "usage": "!back", "description": "Lets the stream know that Otto will be right back, he is stretching"},
+  {"name": "!mafia", "usage": "!mafia", "description": "Otto's shoutout to the Twitch Mafia, displays twitch links"},
+  {"name": "!420", "usage": "!420", "description": "Disclaimer that Otto is having a smoke"},
+  {"name": "!addcommand", "usage": "!addcommand !<name> <content>", "description": "Add a command directly from chat"},
+  {"name": "!editcommand", "usage": "!editcommand !<name> <new content>", "description": "Edit a command directly from chat"},
+  {"name": "!removecommand", "usage": "!removecommand !<name>", "description": "Remove a command directly from chat"},
+  {"name": "!enable", "usage": "!enable !<name>", "description": "Enable/disable a command directly from chat"},
+  {"name": "!addquote", "usage": "!addquote <quote>", "description": "Add a quote through chat"},
+  {"name": "!quoteedit", "usage": "!quoteedit <number> <quote>", "description": "Edit a quote through chat"},
+  {"name": "!quoteremove", "usage": "!quoteremove <number>", "description": "Remove a quote through chat"},
+  {"name": "!settitle", "usage": "!settitle <title>", "description": "Changes the stream title"},
+  {"name": "!setgame", "usage": "!setgame <game>", "description": "Changes the stream game"},
+  {"name": "!death +", "usage": "!death +", "description": "Increases the death counter by 1"},
+  {"name": "!death -", "usage": "!death -", "description": "Decreases the death counter by 1"},
+  {"name": "!death", "usage": "!death <number>", "description": "Sets the death count to a specific number"}
 ]
