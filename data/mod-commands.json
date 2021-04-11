@@ -1,5 +1,6 @@
 [
   {"name": "!so", "usage": "!so <target>", "description": "Shout out to the target viewer, diisplaying stream link and last played game"},
+  {"name": "!props", "usage": "!props <target>", "description": "Give love to the target, displays the twitch URL but not the game (for not streamers who are awesome"},
   {"name": "!back", "usage": "!back", "description": "Lets the stream know that Otto will be right back, he is stretching"},
   {"name": "!mafia", "usage": "!mafia", "description": "Otto's shoutout to the Twitch Mafia, displays twitch links"},
   {"name": "!420", "usage": "!420", "description": "Disclaimer that Otto is having a smoke"},
