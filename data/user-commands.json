@@ -20,6 +20,7 @@
   {"name": "!schedule", "usage": "!schedule", "description": "Displays Otto's schedule"},
   {"name": "!18", "usage": "!18", "description": "Reminder that the stream is rated 18+"},
   {"name": "!followers", "usage": "!followers", "description": "Displays the current number of followers"},
+  {"name": "!subs", "usage": "!subs", "description": "Displays the current number of subscribers"},
   {"name": "!burn", "usage": "!burn", "description": "For use when someone lays down a sick burn"},
   {"name": "!cheers", "usage": "!cheers", "description": "Cheers!"},
   {"name": "!meds", "usage": "!meds", "description": "A reminder for everyone to take their meds"},
