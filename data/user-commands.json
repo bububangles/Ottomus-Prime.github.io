@@ -3,6 +3,7 @@
   {"name": "!love", "usage": "!love", "description": "Tell Otto you love him!"},
   {"name": "!hug", "usage": "!hug <target>", "description": "Give the target viewer a hug!"},
   {"name": "!lurk", "usage": "!lurk", "description": "Announce the desire to lurk"},
+  {"name": "!subhype", "usage": "!subhype", "description": "For use when someone subs, to let them know we love them"},
   {"name": "!uptime", "usage": "!uptime", "description": "Display stream uptime"},
   {"name": "!followage", "usage": "!followage", "description": "Displays the amount of days you've been following"},
   {"name": "!watchtime", "usage": "!watchtime", "description": "Displays the amount of hours you've watched the stream"},
