@@ -27,6 +27,7 @@
   {"name": "!cheers", "usage": "!cheers", "description": "Cheers!"},
   {"name": "!meds", "usage": "!meds", "description": "A reminder for everyone to take their meds"},
   {"name": "!stab", "usage": "!stab <target>", "description": "Stab the target viewer (which isn't very nice)"},
+  {"name": "!fart", "usage": "!fart || !fart <target>", "description": "Fart noise || fart in a viewer's general direction"},
   {"name": "!cult", "usage": "!cult", "description": "The 'cult' disclaimer"},
   {"name": "!ottoboy", "usage": "!ottoboy", "description": "Let Otto know he's just our little ottoboy"},
   {"name": "!quote", "usage": "!quote || !quote <number>", "description": "Display a random quote || display a quote by its number"},
