@@ -21,7 +21,6 @@
   {"name": "!ban", "usage": "!ban <target>", "description": "Bans the target viewer (not really)"},
   {"name": "!stream", "usage": "!stream", "description": "Remind everyone that the stream belongs to the people"},
   {"name": "!schedule", "usage": "!schedule", "description": "Displays Otto's schedule"},
-  {"name": "!18", "usage": "!18", "description": "Reminder that the stream is rated 18+"},
   {"name": "!followers", "usage": "!followers", "description": "Displays the current number of followers"},
   {"name": "!subs", "usage": "!subs", "description": "Displays the current number of subscribers"},
   {"name": "!burn", "usage": "!burn", "description": "For use when someone lays down a sick burn"},
