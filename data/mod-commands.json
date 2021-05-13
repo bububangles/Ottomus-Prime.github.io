@@ -1,6 +1,7 @@
 [
   {"name": "!so", "usage": "!so <target>", "description": "Shout out to the target viewer, diisplaying stream link and last played game"},
   {"name": "!props", "usage": "!props <target>", "description": "Give love to the target, displays the twitch URL (for shoutouts to non-streamers who are awesome"},
+  {"name": "!age", "usage": "!age", "description": "A more PG reminder that it's an 18+ stream (compared to !18)"},
   {"name": "!back", "usage": "!back", "description": "Lets the stream know that Otto will be right back, he is stretching"},
   {"name": "!mafia", "usage": "!mafia", "description": "Otto's shoutout to the Twitch Mafia, displays twitch links"},
   {"name": "!addcommand", "usage": "!addcommand !<name> <content>", "description": "(Cloudbot) Add a command directly from chat"},
