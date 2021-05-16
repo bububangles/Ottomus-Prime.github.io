@@ -1,6 +1,7 @@
 [
   {"name": "!game", "usage": "!game", "description": "Displays the current game being played"},
   {"name": "!discord", "usage": "!discord", "description": "Displays a link to Otto's Discord server"},
+  {"name": "!bttv", "usage": "!bttv", "description": "Displays info for viewers to get the bttv emotes"},
   {"name": "!love", "usage": "!love", "description": "Tell Otto you love him!"},
   {"name": "!hug", "usage": "!hug <target>", "description": "Give the target viewer a hug!"},
   {"name": "!lurk", "usage": "!lurk", "description": "Announce the desire to lurk"},
