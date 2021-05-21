@@ -5,6 +5,7 @@
   {"name": "!age", "usage": "!age", "description": "A more PG reminder that it's an 18+ stream (compared to !18)"},
   {"name": "!heylisten", "usage": "!heylisten", "description": "For mods to catch Otto's attention"},
   {"name": "!back", "usage": "!back", "description": "Lets the stream know that Otto will be right back, he is stretching"},
+  {"name": "!rage+", "usage": "!rage+", "description": "Increments the rage quit counter"},
   {"name": "!mafia", "usage": "!mafia", "description": "Otto's shoutout to the Twitch Mafia, displays twitch links"},
   {"name": "!addcommand", "usage": "!addcommand !<name> <content>", "description": "(Cloudbot) Add a command directly from chat"},
   {"name": "!editcommand", "usage": "!editcommand !<name> <new content>", "description": "(Cloudbot) Edit a command directly from chat"},
