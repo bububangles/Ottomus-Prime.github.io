@@ -34,6 +34,8 @@
   {"name": "!fart", "usage": "!fart || !fart <target>", "description": "Fart noise || fart in a viewer's general direction"},
   {"name": "!cult", "usage": "!cult", "description": "The 'cult' disclaimer"},
   {"name": "!ottoboy", "usage": "!ottoboy", "description": "Let Otto know he's just our little ottoboy"},
+  {"name": "!waitwhat", "usage": "!waitwhat", "description": "Displays the amount of times Otto has said, 'Wait, what?'"},
+  {"name": "!waitwhat+", "usage": "!waitwhat+", "description": "Increments the !waitwhat counter"},
   {"name": "!quote", "usage": "!quote || !quote <number>", "description": "Display a random quote || display a quote by its number"},
   {"name": "!heist", "usage": "!heist <amount>", "description": "Start/join a heist to get points!"},
   {"name": "!gamble", "usage": "!gamble <amount>", "description": "Gamble to get points!"},
