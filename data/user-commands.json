@@ -1,4 +1,5 @@
 [
+  {"name": "!commands", "usage": "!commands", "description": "Displays the list of commands"},
   {"name": "!game", "usage": "!game", "description": "Displays the current game being played"},
   {"name": "!discord", "usage": "!discord", "description": "Displays a link to Otto's Discord server"},
   {"name": "!bttv", "usage": "!bttv", "description": "Displays info for viewers to get the bttv emotes"},
