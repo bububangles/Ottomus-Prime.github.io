@@ -1,5 +1,6 @@
 [
   {"name": "!commands", "usage": "!commands", "description": "Displays the list of commands"},
+  {"name": "!pc", "usage": "!pc", "description": "Displays otto's PC components"},
   {"name": "!game", "usage": "!game", "description": "Displays the current game being played"},
   {"name": "!discord", "usage": "!discord", "description": "Displays a link to Otto's Discord server"},
   {"name": "!bttv", "usage": "!bttv", "description": "Displays info for viewers to get the bttv emotes"},
@@ -22,7 +23,6 @@
   {"name": "!tickle", "usage": "!tickle <target>", "description": "Tickle the target viewer"},
   {"name": "!tangled", "usage": "!tangled", "description": "A constant reminder that Otto needs to watch Tangled"},
   {"name": "!stretch", "usage": "!stretch", "description": "A reminder for Otto to take a break to stretch his back"},
-  {"name": "!cg", "usage": "!cg", "description": "Posts a link to Otto's Chat Guesser"},
   {"name": "!bed", "usage": "!bed", "description": "Wish whomever stated they were going to bed a good night"},
   {"name": "!ban", "usage": "!ban <target>", "description": "Bans the target viewer (not really)"},
   {"name": "!stream", "usage": "!stream", "description": "Remind everyone that the stream belongs to the people"},
