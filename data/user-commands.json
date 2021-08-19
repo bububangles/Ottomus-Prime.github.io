@@ -39,4 +39,14 @@
   {"name": "!quote", "usage": "!quote || !quote <number>", "description": "Display a random quote || display a quote by its number"},
   {"name": "!tophours", "usage": "!tophours", "description": "Display the top viewers based on hours watched"},
   {"name": "!death", "usage": "!death", "description": "Display current number of deaths on the death counter"}
+  {"name": "!tip", "usage": "!tip", "description": "Displays the link to Otto's donation page"},
+  {"name": "!twitter", "usage": "!twitter", "description": "Displays the link to Otto's barren Twitter Account"},
+  {"name": "!wheel", "usage": "!wheel", "description": "Displays the rules for wheel for the users"},
+  {"name": "!break", "usage": "!break", "description": "Lets the chat know that Otto is taking a break and will be back"},
+  {"name": "!ps4", "usage": "!ps4", "description": "A Reminder to Otto to buy a PS4"},
+  {"name": "!raid", "usage": "!raid", "description": "Displays a raid message to use during Raids"},
+  {"name": "!roll", "usage": "!roll", "description": "rolls a random number"},
+  {"name": "!socials", "usage": "!socials", "description": "Displays a list of Otto's Social media accounts"},
+  {"name": "!tall", "usage": "!tall", "description": "Displays the text that tells the chat how tall Otto is"},
+  {"name": "!tiktok", "usage": "!tiktok", "description": "Displays a list of Otto's tiktok account"},
 ]
