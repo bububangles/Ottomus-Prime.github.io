@@ -5,4 +5,7 @@
   {"name": "!right", "usage": "!right", "description": "Plays the 'Fuckin Rights Bud' sound clip"},
   {"name": "!uwu", "usage": "!uwu", "description": "Plays the 'UwU' sound clip"},
   {"name": "!420", "usage": "!420", "description": "Disclaimer that Otto is having a smoke"}
+  {"name": "!waitwhat+", "usage": "!waitwhat+", "description": "Adds to 'Wait What' counter"},
+  {"name": "!continue", "usage": "!continue", "description": "Command for Words with Stream to continue"},
+  {"name": "!stab", "usage": "!stab", "description": "Plays the 'Screams' sound clip"},
 ]
